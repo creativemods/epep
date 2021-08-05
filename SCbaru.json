@@ -1,0 +1,683 @@
+{
+	"Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"ADMOB",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"1",
+      "admob_openid":"ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid":"ca-app-pub-3940256099942544/2247696110",
+      "admob_interid":"ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid":"ca-app-pub-3940256099942544/630097811",
+      "interval_intertitial":5,
+      "fan_inter":"YOUR_PLACEMENT_ID",
+      "fan_banner":"YOUR_PLACEMENT_ID",
+      "fan_native":"YOUR_PLACEMENT_ID",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+  "More":
+  [
+	{
+      "id":0,
+      "judul":"Billiard",
+      "image":"https://play-lh.googleusercontent.com/aebdbLx0BTVf4IOKBLNfn4sAgH1xVr7egimeiE1yfbUvas-pO87YCNiLN4G8bFVJhXE=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.master.billiard.offline"
+    },
+	{
+      "id":0,
+      "judul":"Puzzle",
+      "image":"https://play-lh.googleusercontent.com/aJr_-_liZc1DyskNzFm5iuKkVG9dnHdWtqsatv53rtm0jTr3B_I2XLasGOAFhENEwQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=game.colors.blockpuzzle"
+    },
+	{
+      "id":0,
+      "judul":"Puzzle",
+      "image":"https://play-lh.googleusercontent.com/iWnz8XC_l7Yhx0gIdZXGj2NadMV-CEDQdslVKAF9jtZgX8Zb3ri_iwH2sK55AtpP0ag=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=game.puzzle.colorpuzzle"
+    },
+	{
+      "id":0,
+      "judul":"Puzzle",
+      "image":"https://play-lh.googleusercontent.com/VRgTue3gNgFjzcuDz49GpagbxPWyyTx2vnYa1Wnvm8j1cf3R9vGPwVchh6sG4trcFMI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.classicjewelpuzzle.game.blockpuzzle"
+    },
+	{
+      "id":0,
+      "judul":"BoboiBoy",
+      "image":"https://play-lh.googleusercontent.com/qU_wGfSIMalTFEpDlHRJW54wW2aMXxbT4J-CDBu486NCSIRnIWIrFJXU6JZUT7LgY0I=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.BoboiboyModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Granny",
+      "image":"https://play-lh.googleusercontent.com/hH2q3pEpxqMiLeykh9JH1PbwoBmK_jkg0GjlCI-_TJMvFF0oRjL68Uyt2oSj_tzA0oaf=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.GrannyModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Dream",
+      "image":"https://play-lh.googleusercontent.com/K_gYX46OBZue-4rnd1OatXGFpwZkpySK1XEMZt5fIe8Lwpylm0rntoJnkVVCVCD1Y7I=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.dreammodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Mario",
+      "image":"https://play-lh.googleusercontent.com/Z2EQsf_P5-8rl9qx9i6G9751SmWfA_H5fD_4zSOA1J5cSxIjqncq0YlZRPlwVd693ho=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Supermariomodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Free Fire",
+      "image":"https://play-lh.googleusercontent.com/hQdxe6CMflqOHwK6N1REx6kteYD9k-nazORKHL6uYLsotOY-Xzs9KwRHsenLXuZSRI7G=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.FFmodCraftPE"
+    },
+	{
+      "id":0,
+      "judul":"Herobrine",
+      "image":"https://play-lh.googleusercontent.com/czUBlkklBR8zvn8TvlFxnKOuI3HPRspUWB7eV30yppyb_ZujjKZqA7V_WGRWiecVLq8=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.HerobrineModCraft"
+    },
+	{
+      "id":0,
+      "judul":"BNHA",
+      "image":"https://play-lh.googleusercontent.com/AuzeJjaCUh8zP6veeEuLQotvR6x1bxFd28UsOTpR8rpAwLsUtIyBjOrLEIoJuXCVHQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.myheroacademiaModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Yandere",
+      "image":"https://play-lh.googleusercontent.com/zZDV2UTd5PxAo1RtSZXArOkJzRjKJgihsLxMsudPn8I0t_ZGjr2v5S2SinXZFZj8IX8=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.YanderemodCraftPE"
+    },
+	{
+      "id":0,
+      "judul":"Frost Diamond",
+      "image":"https://play-lh.googleusercontent.com/7M20ATcCfr3sIUnmtOWQ_bqzmHjI3bg13iRghHSwSjvcmLsYAZHiS6E2zAq03sQmF5FM=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.FrostOfDiamondmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Dragon",
+      "image":"https://play-lh.googleusercontent.com/3cGx0zg6h2NoSQwv22xbfgWKWHOScdFmC_iCObk-VTbEIdBIbEvessU-Og5V-pZqDZzP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Dragonmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Mermaid",
+      "image":"https://play-lh.googleusercontent.com/F-vt47LmvDxSVTC0Yuon2aimhJvQmDyDgu7y5N5IcixMGHMnZ6bvJa0lOZ_YJ50ziSCV=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.MermaidModCraftPE"
+    },
+	{
+      "id":0,
+      "judul":"Ultraman",
+      "image":"https://play-lh.googleusercontent.com/6khGIp0ZNg9CdS0XWbZGLHJxknj7BtLPJODQz7oOKd3G5dbqHRScakaSAJMVKXeifTlb=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.ultramanmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Ben 10",
+      "image":"https://play-lh.googleusercontent.com/0Svsx3gS4gX4VbYRzKDZskdH9NKhjYqTtW-Z8VaEE6yVttI5oDvkmqGeAAWe6IUQ5LE=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.ben10modcraft"
+    },
+	{
+      "id":0,
+      "judul":"Lego",
+      "image":"https://play-lh.googleusercontent.com/e727np5DYISRWS_LAYstHKiC258PtPwG_3ANDb8FLXn-bs6mK2VH-6oQlK9wyqg3N8o=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Legoblockmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Haikyuu",
+      "image":"https://play-lh.googleusercontent.com/XGCSTOkL9L3FGiF2pNUvNhTFCVsIbl1SuvgKXFYwnklLdroW1r6-hz5KFSHdFUHnq5Y=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.HaikyuuModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Konoha",
+      "image":"https://play-lh.googleusercontent.com/5hR2e27RIQ6h8No5Qccy-p2E-mtQnEMlXdg3HhldWUwgii_itbEGe1-nodfjAkSGt7b_=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Konohamodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Camo",
+      "image":"https://play-lh.googleusercontent.com/ZaJdxSndl8UbDyVoyL-5cLSO0ik-Izyd1Yt-mnlx8VJmG_hBwLiGM-jD_BktMGQgVXA=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.camouflageModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Kong",
+      "image":"https://play-lh.googleusercontent.com/rImVDjutp_9n9trwEwlnBvbvKmo6KI1pj3Hv9osz-tC2OXeOSIoKP5Gs-dUSQWokvmE=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.konggodzillamodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Spongebob",
+      "image":"https://play-lh.googleusercontent.com/CW-DzQOhjw67OXS1u8rd0Ik3KCgRnbYHbN5wrjlDpPgJh3xiAXFDyj4Iu-Ubin2l2w=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.SpongebobModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Hacker",
+      "image":"https://play-lh.googleusercontent.com/NeO9ZVMqwCRWammsRaqdGqmTiRs58ZGGxrOL95WRUkBWpwMCa0YY_GJ-S0ST0PaH2R0=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.HackerModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Morph",
+      "image":"https://play-lh.googleusercontent.com/l3UI4gZMROgNmnvfSLUhCcyK2FiroTadZtkf9OI1Xep-dg1rgQ6PJar8ws6fd-7RB8Q=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.MorphingModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Mr Bean",
+      "image":"https://play-lh.googleusercontent.com/eFWe0nYS1sk8HoxQGLw1EGiiPJCs7pyHSMty7cQ0BoNLlvHcL-_PjYyADI7mIE0wzUc=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.MrBeanModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Golem",
+      "image":"https://play-lh.googleusercontent.com/ZbXRdiNpcK_S1w21Wlr2G5X44nGD2DG0QbfE0kIFkdlcJageHJXccfCZ7d99ka1rGfs=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.GolemModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Pubg",
+      "image":"https://play-lh.googleusercontent.com/IVlpO12p3Ff5qSarV_eDXbXSUqPdw0Q_KDM6pa7CAMT1Jbcb9s3sS7txinRMiJl09Oc=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.pubgmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Aphmau",
+      "image":"https://play-lh.googleusercontent.com/iGK-8RoWcgV9QeGirTQWNrWX5KULOqxCytzO5VQuzD92KE2t9id3b-hYw9ekBCca6j8=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.aphmaumodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"GTA",
+      "image":"https://play-lh.googleusercontent.com/Vnp5r1u_fTqbyyDPBrXLfsaYo0UoJI5TGASkHLYvfJkxB8itsiC9BIljNiSJOb07OtA4=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.GTAmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Minions",
+      "image":"https://play-lh.googleusercontent.com/OtYaYsDdXTQqWXCLSOLvKLvIftVgqE_Bap5Rn7ESxboHwgUIeaUrdtdwLT3Hxs011NI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Minionsmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Girl",
+      "image":"https://play-lh.googleusercontent.com/zb5q-IbLHXgBqb7socsOOguYFMWFdVMc6edt_R6PG7QWCg7u8Gh3yTHWVGcY9FUHvw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.GirlfriendModCraft"
+    },
+	{
+      "id":0,
+      "judul":"Amongus",
+      "image":"https://play-lh.googleusercontent.com/xQjU8FHjLVIbvidgbCdP7_YfNjOTGH6dpEpzC9h4xAQ8t-23ZjF0_YfEfBdVHnHk25k=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Amongusmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Sadako",
+      "image":"https://play-lh.googleusercontent.com/JDlIAEQ5Gx8QeTmzn-QbW2HdYBaC74G7krb59nhywt9Bmp6mmtphkhFsy5XCRZ4LYqA=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.SadakoModCraftPE"
+    },
+	{
+      "id":0,
+      "judul":"Sonic",
+      "image":"https://play-lh.googleusercontent.com/oN1OpCyxG0gZVMc7Ih2lgLpumg0cQTeQKg1L0qM7WAA1cZWXv6AgyNn84UJC1W-67YBs=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.Sonicmodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"FridayNFunkin",
+      "image":"https://play-lh.googleusercontent.com/DFgs5WG7Kg5sMvmIRQvErHrONCzVRwq0UggF79Fslvus-KDgjv-ywpewyz8i37TZpyU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.FridayNFunkinMCPE"
+    },
+	{
+      "id":0,
+      "judul":"AdventureTime",
+      "image":"https://play-lh.googleusercontent.com/5o9SuZG8F3Ucj64qEbdL2HX6N9-blGJZT_NOftHUgjZuJoo0lD9g78_FjzVpeSWq-ugB=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.adventuretimemodcraftpe"
+    },
+	{
+      "id":0,
+      "judul":"Titan",
+      "image":"https://play-lh.googleusercontent.com/22PlVahT6jJRl8oXmhsztPZOwQMB1xoUx375XGoNphH4terzhIPXnotiX_Z1Qzr6bMI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.AOTmodCraftPE"
+    },
+	{
+      "id":0,
+      "judul":"FallGuys",
+      "image":"https://play-lh.googleusercontent.com/HbYfF5SDCE6C3zfviZk7xD4DTzO9v3zz6Ar__EgOpkO4aOSvraNzDC-S-piVdrx3IR28=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.oyskins.FallguysModCraft"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin1.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/1.png"
+    },
+    {
+      "id":2,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin2.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/2.png"
+    },
+    {
+      "id":3,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin3.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/3.png"
+    },
+    {
+      "id":4,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin4.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/4.png"
+    },
+    {
+      "id":5,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin5.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/5.png"
+    },
+    {
+      "id":6,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin6.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/6.png"
+    },
+    {
+      "id":7,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin7.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/7.png"
+    },
+    {
+      "id":8,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin8.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/8.png"
+    },
+    {
+      "id":9,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin9.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/9.png"
+    },
+    {
+      "id":10,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin10.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/10.png"
+    },
+    {
+      "id":11,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin11.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/11.png"
+    },
+    {
+      "id":12,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin12.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/12.png"
+    },
+    {
+      "id":13,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin13.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/13.png"
+    },
+    {
+      "id":14,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin14.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/14.png"
+    },
+    {
+      "id":15,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin15.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/15.png"
+    },
+    {
+      "id":16,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin16.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/16.png"
+    },
+    {
+      "id":17,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin17.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/17.png"
+    },
+    {
+      "id":18,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin18.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/18.png"
+    },
+    {
+      "id":19,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin19.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/19.png"
+    },
+    {
+      "id":20,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin20.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/20.png"
+    },
+    {
+      "id":21,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin21.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/21.png"
+    },
+    {
+      "id":22,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin22.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/22.png"
+    },
+    {
+      "id":23,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin23.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/23.png"
+    },
+    {
+      "id":24,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin24.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/24.png"
+    },
+    {
+      "id":25,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin25.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/25.png"
+    },
+    {
+      "id":26,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin26.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/26.png"
+    },
+    {
+      "id":27,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin27.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/27.png"
+    },
+    {
+      "id":28,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin28.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/28.png"
+    },
+    {
+      "id":29,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin29.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/29.png"
+    },
+    {
+      "id":30,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin30.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/30.png"
+    },
+    {
+      "id":31,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin31.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/31.png"
+    },
+    {
+      "id":32,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin32.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/32.png"
+    },
+    {
+      "id":33,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin33.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/33.png"
+    },
+    {
+      "id":34,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin34.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/34.png"
+    },
+    {
+      "id":35,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin35.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/35.png"
+    },
+    {
+      "id":36,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin36.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/36.png"
+    },
+    {
+      "id":37,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin37.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/37.png"
+    },
+    {
+      "id":38,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin38.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/38.png"
+    },
+    {
+      "id":39,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin39.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/39.png"
+    },
+    {
+      "id":40,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin40.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/40.png"
+    },
+    {
+      "id":41,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin41.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/41.png"
+    },
+    {
+      "id":42,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin42.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/42.png"
+    },
+    {
+      "id":43,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin43.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/43.png"
+    },
+    {
+      "id":44,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin44.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/44.png"
+    },
+    {
+      "id":45,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin45.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/45.png"
+    },
+    {
+      "id":46,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin46.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/46.png"
+    },
+    {
+      "id":47,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin47.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/47.png"
+    },
+    {
+      "id":48,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin48.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/48.png"
+    },
+    {
+      "id":49,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin49.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/49.png"
+    },
+    {
+      "id":50,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin50.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/50.png"
+    },
+    {
+      "id":51,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin51.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/51.png"
+    },
+    {
+      "id":52,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin52.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/52.png"
+    },
+    {
+      "id":53,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin53.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/53.png"
+    },
+    {
+      "id":54,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin54.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/54.png"
+    },
+    {
+      "id":55,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin55.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/55.png"
+    },
+    {
+      "id":56,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin56.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/56.png"
+    },
+    {
+      "id":57,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin57.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/57.png"
+    },
+    {
+      "id":58,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin58.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/58.png"
+    },
+    {
+      "id":59,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin59.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/59.png"
+    },
+    {
+      "id":60,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin60.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/60.png"
+    },
+    {
+      "id":61,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin61.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/61.png"
+    },
+    {
+      "id":62,
+      "nama_skin":"FF 💥 SKINS",
+      "skin_url":"https://rastariski01.github.io/ffskinmcpe/skin/skin62.png",
+      "view_skin":"https://creativemods.github.io/epep/skin/62.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"FF 💥 Add On",
+      "add_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon1.zip",
+      "addB_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon1(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon1(B).mcpack",
+      "view_add":"https://creativemods.github.io/epep/skin/ad1.png",
+      "des_add":"https://creativemods.github.io/epep/skin/adon.html"
+    },
+    {
+      "id":2,
+      "nama_add":"FF 💥 Add On",
+      "add_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon2.zip",
+      "addB_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon2(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/ffskinmcpe/addon/addon2(B).mcpack",
+      "view_add":"https://creativemods.github.io/epep/skin/ad2.png",
+      "des_add":"https://creativemods.github.io/epep/skin/adon.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"FF 💥 Maps",
+      "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map1.zip",
+      "view_map":"https://creativemods.github.io/epep/skin/map1.png",
+      "des_map":"https://creativemods.github.io/epep/skin/map.html"
+    },
+    {
+      "id":2,
+      "nama_map":"FF 💥 Maps",
+      "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map2.zip",
+      "view_map":"https://creativemods.github.io/epep/skin/map2.png",
+      "des_map":"https://creativemods.github.io/epep/skin/map.html"
+    },
+    {
+      "id":3,
+      "nama_map":"FF 💥 Maps",
+      "map_url":"https://rastariski01.github.io/ffskinmcpe/map/map3.zip",
+      "view_map":"https://creativemods.github.io/epep/skin/map3.png",
+      "des_map":"https://creativemods.github.io/epep/skin/map.html"
+    }
+  ]
+}
