@@ -7,10 +7,10 @@
       "select_ads":"",
       "select_backup_ads":"APPLOVIN",
       "backup_mode":"0",
-      "admob_openid":"",
-      "admob_nativeid":"",
-      "admob_interid":"",
-      "admob_bannerid":"",
+      "admob_openid":"ca-app-pub-1625708717292750/1875677812",
+      "admob_nativeid":"ca-app-pub-1625708717292750/5828748158",
+      "admob_interid":"ca-app-pub-1625708717292750/1257564863",
+      "admob_bannerid":"ca-app-pub-1625708717292750/7796435940",
       "interval_intertitial":5,
       "fan_inter":"YOUR_PLACEMENT_ID",
       "fan_banner":"YOUR_PLACEMENT_ID",
@@ -19,8 +19,8 @@
       "mopub_banner":"b195f8dd8ded45fe847ad89ed1d016da",
       "mopub_inter":"24534e1901884e398f1253216226017e",
       "mopub_mrec":"252412d5e9364a05ab77d9396346d73d",
-      "applovin_banner":"db4d5e8718b97d78",
-      "applovin_inter":"518cd97722c60b52"
+      "applovin_banner":"b662dceec2746bf8",
+      "applovin_inter":"e4f96a250e9f2f68"
     }
   ],
   "More":
